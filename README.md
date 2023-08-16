@@ -1,6 +1,6 @@
 # session-links
 
-dapp-e-thon :
+dapp-a-thon :
 https://bit.ly/dgdappos2
 
 PPT for basics of blockchain :
@@ -11,4 +11,8 @@ https://guggero.github.io/blockchain-demo/#!/hash
 
 
 hashtags and account mentions for twitter giveaway :
+
+#dappathon
+@theveer5 @spheronfdn @bunnzzdev @dhruvga75562659
+
 
